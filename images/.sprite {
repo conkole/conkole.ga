@@ -1,0 +1,119 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-case1 {
+    width: 36px;
+    height: 34px;
+    background-position: -10px -10px;
+}
+
+.sprite-case2 {
+    width: 36px;
+    height: 34px;
+    background-position: -66px -10px;
+}
+
+.sprite-doc {
+    width: 26px;
+    height: 32px;
+    background-position: -122px -10px;
+}
+
+.sprite-dz_port2015_sliced_38 {
+    width: 41px;
+    height: 23px;
+    background-position: -168px -10px;
+}
+
+.sprite-facebook {
+    width: 47px;
+    height: 47px;
+    background-position: -229px -10px;
+}
+
+.sprite-facebook-active {
+    width: 47px;
+    height: 47px;
+    background-position: -296px -10px;
+}
+
+.sprite-female {
+    width: 150px;
+    height: 150px;
+    background-position: -363px -10px;
+}
+
+.sprite-git {
+    width: 47px;
+    height: 47px;
+    background-position: -533px -10px;
+}
+
+.sprite-git-active {
+    width: 47px;
+    height: 47px;
+    background-position: -600px -10px;
+}
+
+.sprite-lock {
+    width: 20px;
+    height: 32px;
+    background-position: -667px -10px;
+}
+
+.sprite-logo {
+    width: 243px;
+    height: 46px;
+    background-position: -707px -10px;
+}
+
+.sprite-mail {
+    width: 21px;
+    height: 16px;
+    background-position: -970px -10px;
+}
+
+.sprite-male {
+    width: 150px;
+    height: 150px;
+    background-position: -1011px -10px;
+}
+
+.sprite-phone {
+    width: 19px;
+    height: 20px;
+    background-position: -1181px -10px;
+}
+
+.sprite-skype {
+    width: 20px;
+    height: 20px;
+    background-position: -1220px -10px;
+}
+
+.sprite-twitter {
+    width: 47px;
+    height: 47px;
+    background-position: -1260px -10px;
+}
+
+.sprite-twitter-active {
+    width: 47px;
+    height: 47px;
+    background-position: -1327px -10px;
+}
+
+.sprite-vkontakte {
+    width: 47px;
+    height: 47px;
+    background-position: -1394px -10px;
+}
+
+.sprite-vkontakte-active {
+    width: 47px;
+    height: 47px;
+    background-position: -1461px -10px;
+}
